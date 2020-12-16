@@ -1,10 +1,42 @@
-## 免费梯子搭建教程大全
+## Resources Collection for VPN&VPS, Free or Pay
 
-#### 相比购买搬瓦工/蓝灯等服务，自己搭建服务器更稳定更安全，想连多少设备就连多少个~
+### _Updated@20201216_
 
-_Author@: Symbolk_
+> This project serves for researching and studying, please obey the local law and use at your own risk.
 
-_Upload@: 20180108_
- 
-_Update@: 20190721_
+
+
+### _Useful Links_
+
+Services:
+
+https://justmysocks.xyz/
+
+https://quickq.io (https://1js.xyz)
+
+https://getoutline.org/
+
+
+
+Servers:
+
+https://www.vultr.com/
+
+https://aws.amazon.com/
+
+https://cloud.google.com/
+
+
+
+Clients:
+
+https://www.v2ray.com/chapter_00/install.html
+
+https://shadowsocks.org/en/download/clients.html
+
+https://github.com/getlantern/lantern-binaries
+
+
+
+
 
