@@ -8,6 +8,13 @@
 
 ### _Useful Links_
 
+Plugins:
+
+> If all you need is to Google something, what you need is just this Chrome plugin
+
+http://googlehelper.net/
+
+
 Services:
 
 https://justmysocks.xyz/
