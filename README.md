@@ -1,6 +1,6 @@
 ## Resources Collection for VPN&VPS, Free or Pay
 
-### _Updated@20201216_
+### _Updated@20210106_
 
 > This project serves for researching and studying, please obey the local law and use at your own risk.
 
