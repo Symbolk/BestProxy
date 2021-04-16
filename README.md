@@ -5,8 +5,7 @@
 > This project serves for researching and studying, please obey the local law and use at your own risk.
 
 
-
-### _Useful Links_
+### _In a Hurry?_
 
 Plugins:
 
